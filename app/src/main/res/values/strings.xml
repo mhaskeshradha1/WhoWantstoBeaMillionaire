@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Who Wants to Be a Millionaire?</string>
+    <string name="play">let\'s Play</string>
+    <string name="Proceed">proceed</string>
+    <string name="gameinstructions">
+        \n1. Play individually.\n
+        \n2. Start the game. \n
+        \n3. Once answer is confirmed by player,it cannot change. \n
+        \n4. Player can claim winning amount at any level by clicking prize money. \n
+        \n5. Correct answer turn to green color and Wrong answers turn to orange color.\n
+    </string>
+    <string name="are_you_sure">\nAre you sure?\n\nYou cannot change answer once confirmed</string>
+    <string name="are_you_sure_delete">Do you want to delete student?</string>
+    <string name="confirmed">You have confirmed correct answer, \nNow proceed </string>
+    <string name="confirmed_wrong">You have confirmed wrong answer, \nNow proceed </string>
+    <string name="confirmedAlready">You have already confirmed answer. Now you cannot change answer. \nPlease use proceed to go next</string>
+    <string name="exit_game_title">Exit Game?</string>
+    <string name="exit_toast_msg">You have exited game, You won\'t able to claim your prize money.</string>
+    <string name="q1">Which is prime number?</string>
+    <string name="q1a1">A. 3</string>
+    <string name="q1a2">B. 1</string>
+    <string name="q1a3">C. 4</string>
+    <string name="q1a4">D. 6</string>
+    <string name="q2">Which is Even number? </string>
+    <string name="q2a1">A. 3</string>
+    <string name="q2a2">B. 1</string>
+    <string name="q2a3">C. 2</string>
+    <string name="q2a4">D. 7</string>
+    <string name="q3">Which is Odd number? </string>
+    <string name="q3a1">A. 3</string>
+    <string name="q3a2">B. 18</string>
+    <string name="q3a3">C. 2</string>
+    <string name="q3a4">D. 10</string>
+    <string name="q4">Which is smallest number from list? </string>
+    <string name="q4a1">A. 13</string>
+    <string name="q4a2">B. 1</string>
+    <string name="q4a3">C. 2</string>
+    <string name="q4a4">D. 0</string>
+    <string name="q5">Which is Largest number from list? </string>
+    <string name="q5a1">A. 300</string>
+    <string name="q5a2">B. 8971</string>
+    <string name="q5a3">C. 20000</string>
+    <string name="q5a4">D. 0</string>
+    <string name="q6">The square root of .0121 is? </string>
+    <string name="q6a1">A. .11</string>
+    <string name="q6a2">B. .011</string>
+    <string name="q6a3">C. .00011</string>
+    <string name="q6a4">D. .000011</string>
+    <string name="q7">139 - 235 = ? </string>
+    <string name="q7a1">A. 96</string>
+    <string name="q7a2">B. 98</string>
+    <string name="q7a3">C. -96</string>
+    <string name="q7a4">D. -69</string>
+    <string name="q8"> 45/9= ? </string>
+    <string name="q8a1">A. 5</string>
+    <string name="q8a2">B. 1</string>
+    <string name="q8a3">C. 2</string>
+    <string name="q8a4">D. 0</string>
+    <string name="q9">15% of 300 = ? </string>
+    <string name="q9a1">A. 20</string>
+    <string name="q9a2">B. 45</string>
+    <string name="q9a3">C. 40</string>
+    <string name="q9a4">D. 35</string>
+    <string name="q10">5 x 16 = ? </string>
+    <string name="q10a1">A. 80</string>
+    <string name="q10a2">B. 86</string>
+    <string name="q10a3">C. 88</string>
+    <string name="q10a4">D. 78</string>
+    <string name="money_1">$ 0</string>
+    <string name="money_2">$ 1000</string>
+    <string name="money_3">$ 2000</string>
+    <string name="money_4">$ 5000</string>
+    <string name="money_5">$ 10000</string>
+    <string name="money_6">$ 20000</string>
+    <string name="money_7">$ 50000</string>
+    <string name="money_8">$ 100000</string>
+    <string name="money_9">$ 200000</string>
+    <string name="money_10">$ 500000</string>
+    <string name="you_won_the_">\nBetter luck next time!</string>
+    <string name="you_won_money">You have won $0</string>
+    <string name="claim_your_money">\n\nDo not want to continue??\n\nClick on prize money and claim it</string>
+
+</resources>
